@@ -1,13 +1,11 @@
-# maframeworks2016
+# Second Mandatory Exercise in Security 
 
-Mandatory Assignment Web Development Frameworks
 Spring 2016
 
-Content Management System 
 
 authors:
-Yordan, Serkan, Nikolay, Dimitar
+Yordan, Roxana, Nikolay, Dimitar
 
+Run:
 
-npm install
-bower install
+npm install && bower install
